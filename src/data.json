@@ -1,0 +1,25 @@
+{
+  "gameCard": [
+    {
+      "id": 1,
+      "title": "Kipon",
+      "type": "Casual",
+      "cost": "Free",
+      "image": "/images/card-one-image.webp"
+    },
+    {
+      "id": 2,
+      "title": "Robotrix",
+      "type": "RPG",
+      "cost": "Free",
+      "image": "/images/card-two-image.webp"
+    },
+    {
+      "id": 3,
+      "title": "Teasure Box",
+      "type": "Adventure",
+      "cost": "Free",
+      "image": "/images/card-three-image.webp"
+    }
+  ]
+}

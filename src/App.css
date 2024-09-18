@@ -1,0 +1,5 @@
+.parallax-image {
+  @apply relative w-full h-screen;
+  transform: translateX(0);
+  transition: transform 0.5s ease-in-out;
+}
